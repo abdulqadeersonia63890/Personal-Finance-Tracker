@@ -1,0 +1,38 @@
+[
+  {
+    "id": "190b9587-190f-470a-a15d-82afa4325025",
+    "title": "Monthly salary",
+    "amount": 85000,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-10-13",
+    "note": "Sample income"
+  },
+  {
+    "id": "115a25d9-cafa-422c-abdf-622d80e62a18",
+    "title": "Groceries",
+    "amount": 6500,
+    "type": "expense",
+    "category": "Food",
+    "date": "2026-10-13",
+    "note": "Sample expense"
+  },
+  {
+    "id": "d807d1b6-d528-43e6-8828-f21f8e0617f3",
+    "title": "Internet bill",
+    "amount": 2500,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2026-10-13",
+    "note": "Sample expense"
+  },
+  {
+    "id": "954ead58-e1ef-48a7-8dc5-2e3f85a5b445",
+    "title": "bazar shopping",
+    "amount": 1900000,
+    "type": "expense",
+    "category": "Food",
+    "date": "2026-10-15",
+    "note": "shopping bill"
+  }
+]
